@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Patange</h1>
 <h3 align="center">Exploring Code and the World, One Commit at a Time.</h3>
 
+<img align="right" alt="coding" width ="400" src="https://github.com/Atharva-stack20/Atharva-stack20/blob/main/3920733-bddfe40abbee4fe48f94a570db9a7252.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-stack20&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-stack20" /> </p>
 
 - 🔭 I’m currently working on [Final Year Project](https://github.com/Atharva-stack20/finalyearproject)
