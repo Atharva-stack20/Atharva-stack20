@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Atharva-stack20/Atharva-stack20/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Atharva Patange</h1>
 <h3 align="center">Exploring Code and the World, One Commit at a Time.</h3>
 
